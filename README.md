@@ -2,7 +2,7 @@
 
 An interactive, browsable tech tree for [Stellaris](https://store.steampowered.com/app/281990/Stellaris/).
 
-**Live site: https://hydelix.github.io/stellaris-tech-tree/**
+**Live site: https://hydelix.github.io/Stellaris-Tech-Tree/**
 
 **Current version: Stellaris 4.5.1 "Cygnus"**
 
